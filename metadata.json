@@ -1,0 +1,7 @@
+{
+  "name": "Quản Lý Hồ Sơ Học Viên",
+  "description": "Ứng dụng thông minh hỗ trợ CTV chụp và gửi hồ sơ, Admin quản lý và tối ưu dung lượng.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
